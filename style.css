@@ -185,26 +185,25 @@ body {
         margin: 3em 3em;
     }
 
-.secundario {
-    margin: 10em 3em;
-    text-align: center;
-}
+    .secundario {
+        margin: 10em 3em;
+        text-align: center;
+    }
 
-.dispositivos-lista {
- display: block;
-}
+    .dispositivos-lista {
+        display: block;
+    }
 
-.secundario__imagem {
-    width: 80vw;
-}
+    .secundario__imagem {
+        width: 80vw;
+    }
 
-.rodapé-lista {
-    display: block;
-    text-align: center;
-}
+    .rodapé-lista {
+        display: block;
+    
+    }
 
-.rodapé {
-    text-align: center;
-}
-
+    .rodapé {
+        text-align: center;
+    }
 }
