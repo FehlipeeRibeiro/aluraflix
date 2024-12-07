@@ -168,3 +168,26 @@ body {
     background-color: #C0C0C0;
     color: #00030c;
 }
+
+/* Responsividade */
+
+@media screen and (max-width: 768px) {
+    .geral-combo {
+        display: block;
+        background-image: none;
+    }
+
+    .imgcombo {
+        width: 50vw;
+    }
+
+    .div1 {
+        margin: 3em 3em;
+    }
+
+.secundario {
+    margin: 10em 3em;
+    text-align: center;
+
+}
+}
