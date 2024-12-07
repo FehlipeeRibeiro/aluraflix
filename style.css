@@ -190,12 +190,16 @@ body {
     text-align: center;
 }
 
-.dispositivos {
-    display: block;
+.dispositivos-lista {
+ display: block;
 }
 
 .secundario__imagem {
     width: 80vw;
+}
+
+.rodapé-lista {
+    display: block;
 }
 
 }
