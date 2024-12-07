@@ -188,6 +188,14 @@ body {
 .secundario {
     margin: 10em 3em;
     text-align: center;
-
 }
+
+.dispositivos {
+    display: block;
+}
+
+.secundario__imagem {
+    width: 50vw;
+}
+
 }
