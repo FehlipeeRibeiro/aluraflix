@@ -112,7 +112,6 @@ body {
 }
 
 .dispositivos {
-    height: 100vh;
     text-align: center;
 }
 
@@ -136,7 +135,7 @@ body {
 }
 
 .lista-link a {
-   
+
     list-style-type: none;
     margin-left: 1em;
     color: var(--branco-principal);
@@ -149,7 +148,7 @@ body {
 }
 
 .lista-link a:active {
-    color: purple ;
+    color: purple;
 }
 
 .rodapé {
