@@ -42,10 +42,6 @@ body {
     grid-template-columns: 50% 50%;
 }
 
-.secundaria {
-    height: 100vh;
-}
-
 .botao-assinatura {
     background-color: var(--botao-azul);
     color: var(--branco-principal);
@@ -173,5 +169,3 @@ body {
     background-color: #C0C0C0;
     color: #00030c;
 }
-
-/*  *
